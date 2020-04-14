@@ -1,0 +1,66 @@
+/* .jumbotron{
+	background-image : url(img/hero.jpg);
+} */
+body {
+    background-color: rgb(214, 250, 214);
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+}
+
+.container a:hover {
+    background-color: rgb(157, 212, 157);
+    color: black;
+}
+
+.container_is {
+    width: 100%;
+    background-color: rgb(248, 252, 240);
+    margin: auto;
+}
+
+/* .hero {
+    height: 500px;
+    background-image: url(img/hero.jpg);
+    background-size: cover;
+    background-position: 0 -150px ;
+} */
+
+.informasi .judul {
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(51, 71, 51);
+}
+
+.informasi .subjudul {
+    font-weight: bold;
+    color: rgb(57, 102, 57);
+}
+
+.informasi .p1 {
+    margin-left: 20px;
+    margin-right: 110px;
+}
+
+.informasi p {
+    margin-right: 110px;
+}
+
+.informasi .subjudul {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.footer {
+    background-color:rgb(72, 165, 72);
+    padding: 30px;
+}
+
+.footer .copy {
+    color:rgb(27, 27, 27);
+    text-align: center;
+}
